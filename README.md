@@ -2,7 +2,7 @@
 
 Chat system for FiveM with /twt, /vpn, /ads commands.
 
-/twt - Twitter command
+/twt - Twitter command (uses character name not username.)
 
 /vpn - VPN/Anonymous command
 
